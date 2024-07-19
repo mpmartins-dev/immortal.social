@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662646241657",
+    "project_id": "immortal-social",
+    "storage_bucket": "immortal-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662646241657:android:5d2b8a66c60937298c57a8",
+        "android_client_info": {
+          "package_name": "app.immortal.social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRX0SoO4xN9p5gyYa1W9Tbmt-dbQkp4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
